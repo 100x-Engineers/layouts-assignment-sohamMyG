@@ -34,7 +34,8 @@ module.exports = {
       },
       borderRadius:{
         '6xl':'4.0625rem',
-        '2rem':"2rem"
+        '2rem':"2rem",
+        '0.25':'0.25rem'
       },
       width:{
         'main':'37.375rem',
@@ -44,18 +45,23 @@ module.exports = {
         "24":'0.24'
       },
       lineHeight:{
-        'normal':'normal'
+        'normal':'normal',
+        '1.125':"1.125rem"
       },
       spacing:{
         "1px":'1px',
+        "2px":"2px",
         "3px":"3px",
         "15p":"15px",
         "1.125rem":"1.125rem",
-        "3.75r":"3.75rem"
+        "3.75r":"3.75rem",
+        "4.25rem":"4.25rem",
+        "12.5rem":"12.5rem"
       },
       fontSize:{
         "10p":"10px",
         "15p":"15px",
+        "14p":"14px",
         "31p":"31px"
       }
 
